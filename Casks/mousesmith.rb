@@ -1,6 +1,6 @@
 cask "mousesmith" do
-  version "0.2.0"
-  sha256 "0c7c74b94a6590440ecb521a07a295dc7136731ce78b3e4f1f074230bfa9d7bb"
+  version "0.2.1"
+  sha256 "37933c99acd0b20f439d4a3c76567653b799b6bf9835f0ba1c0727cfe90a493f"
 
   url "https://github.com/Diegoafigue/MouseSmith-releases/releases/download/v#{version}/MouseSmith-#{version}.dmg"
   name "MouseSmith"
