@@ -1,6 +1,6 @@
 cask "allformonitors" do
-  version "0.9.1"
-  sha256 "b910963df67f0ae361b581436293af0aa3451342c7786d4089f6bda684590f52"
+  version "0.9.2"
+  sha256 "59300797866af649fbaf84b1b85750c46ed89163c574dcdf627cd7b947d402cd"
 
   url "https://github.com/Diegoafigue/AllForMonitors-releases/releases/download/v#{version}/AllForMonitors-#{version}.dmg"
   name "AllForMonitors"
